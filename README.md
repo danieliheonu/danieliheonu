@@ -4,8 +4,8 @@ My name is Daniel Iheonu, I am a Backend Developer. I love to learn and build th
 I hope to get better by the day and improve my skills and one day learn new skills that will make me a Full Stack Developer 😎.<br>
 You can reach me on:
 - Email: iheonu6@gmail.com
-- Twitter: [Twitter](https://twitter.com/danieliheonu)
-- Instagram: [Instagram](https://www.instagram.com/d_iheonu/)
+- [Twitter](https://twitter.com/danieliheonu)
+- [Instagram](https://www.instagram.com/d_iheonu/)
 
 <h3>I currently code with 😎 &nbsp;
   <img alt="Python" src="https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white" />
