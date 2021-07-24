@@ -1,8 +1,9 @@
-### Hi There! 👋
+## Hi There! 👋
 
-My name is Daniel Iheonu, I am a Backend Developer. I love to learn and build things 😊 and hope that one day I will be able to change makes changes to the world with the help of codes. 
-I hope to get better by the day and improve my skills and one day learn new skills that will make me a Full Stack Developer 😎.<br>
-You can reach me on:
+### Welcome To My Page 😌
+
+I am a highly resourceful and creative Backend Developer who is seeking a position in an organized establishment that applauds hard work and dedication. I have more than one year of experience as a backend developer and have been able to contribute positively to both the project and my team members in the previous projects I have worked on. I am eager to always learn new things and always ready to help organizations solve problems. Among my strength includes Problem Solving, Team Player, and Excellent Organization and Time Management Skills.
+#### You can reach me on:
 - Email: iheonu6@gmail.com
 - [Twitter](https://twitter.com/danieliheonu)
 - [Instagram](https://www.instagram.com/d_iheonu/)
