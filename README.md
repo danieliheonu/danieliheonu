@@ -7,7 +7,7 @@ I am a highly resourceful and creative Backend Developer with more than one year
 - Email: iheonu6@gmail.com
 - [Twitter](https://twitter.com/danieliheonu)
 - [Instagram](https://www.instagram.com/d_iheonu/)
-- [LinkedIn](https://www.linkedin.com/danieliheonu)
+- [LinkedIn](https://www.linkedin.com/in/danieliheonu)
   
 
 <!--
