@@ -5,8 +5,8 @@
 I am a highly resourceful and creative Backend Developer with more than one year of experience. I have been able to contribute positively to both the project and my team members in the previous projects I have worked on. I am eager to always learn new things and always ready to help organizations solve problems. Among my strength includes Problem Solving, Team Player, and Excellent Organization and Time Management Skills.
 #### You can reach me on:
 - Email: iheonu6@gmail.com
-- [Twitter](https://twitter.com/danieliheonu)
-- [Instagram](https://www.instagram.com/d_iheonu/)
+- [X](https://twitter.com/danieliheonu)
+- [Instagram](https://www.instagram.com/iheonu_)
 - [LinkedIn](https://www.linkedin.com/in/danieliheonu)
   
 
