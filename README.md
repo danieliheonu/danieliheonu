@@ -24,9 +24,7 @@ I am a Computer Science degree holder who has spent the last three years working
 - I can be competitive at times
 
 #### 😄 Pronouns:
-- He
-- Him
-- His
+<code>He</code> <code>Him</code> <code>His</code>
 
 <!--
 **danieldutcum/danieldutcum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
