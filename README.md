@@ -2,7 +2,22 @@
 
 ### Welcome To My Page 😌
 
-I am a highly resourceful and creative Backend Developer with more than one year of experience. I have been able to contribute positively to both the project and my team members in the previous projects I have worked on. I am eager to always learn new things and always ready to help organizations solve problems. Among my strength includes Problem Solving, Team Player, and Excellent Organization and Time Management Skills.
+I am a highly resourceful and creative Software Engineer with more than two years of experience. I have been able to contribute positively to both the project and my team members in the previous projects I have worked on. I am eager to always learn new things and always ready to help organization.
+
+### My stacks are:
+- Python
+- Django/Django REST Framework 
+- Node.js
+- Nest.js
+- React.js
+- Tailwind CSS
+- Vue.js
+- HTML
+- CSS
+- Bootstrap
+- FastApi
+- Docker
+
 #### You can reach me on:
 - Email: iheonu6@gmail.com
 - [X](https://twitter.com/danieliheonu)
