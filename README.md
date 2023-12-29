@@ -3,7 +3,8 @@
 ### Welcome To My Page 😌
 I am a Computer Science degree holder who has spent the last three years working in Software Development. I have had the opportunity to work on various projects, from developing web applications to leading a team of developers. Outside of work, I take time to write articles that can help aspiring backend engineers and also contribute to open-source projects.
 
-#### Tools I use: <code>Python</code> <code>Django/Django REST Framework</code> <code>Node.js</code> <code>Nest.js</code> <code>React.js</code> <code>Tailwind CSS</code> <code>Vue.js</code> <code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>FastApi</code> <code>Docker</code>
+#### Tools I use: 
+<code>Python</code> <code>Django/Django REST Framework</code> <code>Node.js</code> <code>Nest.js</code> <code>React.js</code> <code>Tailwind CSS</code> <code>Vue.js</code> <code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>FastApi</code> <code>Docker</code>
 
 #### 🔭 I’m currently working on
 - Building an opensource project to ease job hunting <a href="https://github.com/jovialcore/whatcompstack-BE">whatcompanystack</a>
