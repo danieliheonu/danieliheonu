@@ -7,8 +7,8 @@ I am a Software Engineer who has had the opportunity to work on various projects
 <code>Git</code> <code>Python</code> <code>Django/Django REST Framework</code> <code>Node.js</code> <code>Nest.js</code> <code>React.js</code> <code>Tailwind CSS</code> <code>Vue.js</code> <code>HTML</code> <code>CSS</code> <code>Bootstrap</code> <code>FastApi</code> <code>Docker</code> <code>MongoDB</code> <code>MySQL</code> <code>PostgreSQL</code>
 
 #### 🔭 I’m currently working on
-- Building an opensource project to ease job hunting <a href="https://github.com/jovialcore/whatcompstack-BE">whatcompanystack</a>
-- Opensource contributor at <a href="https://nkowaokwu.com/home">nkowa okwu</a>
+- Building an opensource project to ease job hunting [whatcompanystack](https://github.com/jovialcore/whatcompstack-BE)
+- Opensource contributor at [nkowa okwu](https://nkowaokwu.com/home)
 - I write on topics that could help aspiring developers trying to enter backend engineering on my [medium](https://medium.com/@iheonu_)
 
 #### 📫 How to reach me::
